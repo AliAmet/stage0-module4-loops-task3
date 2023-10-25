@@ -13,9 +13,4 @@ public class FibonacciSeries {
             secondnumber = sum;
         }
     }
-
-    public static void main(String[] args) {
-        FibonacciSeries fibonacciSeries = new FibonacciSeries();
-        fibonacciSeries.printFibonacci(54);
-    }
 }
